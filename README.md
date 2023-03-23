@@ -12,3 +12,14 @@ The users have access to a table containing the data on UFO sightings. The data 
 Besides having access to all the data in the table, the users can also use a filter search by date, city, state, country, and shape. The user can use multiple filters at the same time or just one. Users can perform a new search by deleting their entries or refreshing the website. 
 
 ![Filter_options](https://user-images.githubusercontent.com/117063056/227342464-3d98661a-8192-43ee-8863-ed0264e8c773.png)
+
+## Summary
+
+# Drawbacks
+
+* One of the current drawbacks of the page is that when users enter the page, all the data in the table is displayed, which can be overwhelming, and requires users to scroll down to the bottom of the page to see all the data results.
+
+# Recommendations
+
+* One of the recommendations would be to break down the data in the table into pages and add an option at the bottom of the table to see the different pages. 
+* The second recommendation would be to add an option for the users to report UFO sightings. Along with this option, add another column to the table to identify which UFO sightings have been confirmed or are awaiting confirmation. 
