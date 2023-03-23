@@ -11,3 +11,4 @@ The users have access to a table containing the data on UFO sightings. The data 
 
 Besides having access to all the data in the table, the users can also use a filter search by date, city, state, country, and shape. 
 
+![Filter_options](https://user-images.githubusercontent.com/117063056/227342464-3d98661a-8192-43ee-8863-ed0264e8c773.png)
